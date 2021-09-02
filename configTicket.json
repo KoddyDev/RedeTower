@@ -1,0 +1,85 @@
+{
+    "ids": {
+        "categories": {
+            "ticket": "835932383077203988"
+        },
+        "cargos": {
+            "tickets": ["787816337069965352", "787816338931843123"]
+        },
+        "channels": {
+            "logs": "867601371506933771",
+            "avaliacoes": "877370125869785108"
+        },
+        "messages": {
+            "avaliacoes": "867600749604110366"
+        }
+    },
+    "ticket": {
+        "tipos": [
+            {
+                "nome": "Dúvidas",
+                "id": "duvidas",
+                "emoji": {
+                    "fullName": "<:duvida:839654180981178388>",
+                    "id": "839654180981178388"
+                },
+                "canalName": "Dúvidas-",
+                "descricao": "Suporte para dúvidas no geral."
+            },
+            {
+                "nome": "Doações",
+                "id": "financeiro",
+                "emoji": {
+                    "fullName": "<a:coins:877989162442174536>",
+                    "id": "877989162442174536"
+                },
+                "canalName": "Doações-",
+                "descricao": "Suporte para doações e afins."
+            },
+            {
+                "nome": "Punições",
+                "id": "punicoes",
+                "emoji": {
+                    "fullName": "<:revisao:877990432695521351>",
+                    "id": "877990432695521351"
+                },
+                "canalName": "Punições-",
+                "descricao": "Suporte para assuntos de punições e afins."
+            },
+            {
+                "nome": "Erros e Bugs",
+                "id": "erros_e_bugs",
+                "emoji": {
+                    "fullName": "<a:2639partybom:877988884145913886>",
+                    "id": "877988884145913886"
+                },
+                "canalName": "Erros-",
+                "descricao": "Suporte para erros e bugs."
+            },
+            {
+                "nome": "Solicitar TAG",
+                "id": "solicitar",
+                "emoji": {
+                    "fullName": "<a:Star:882338668763840532>",
+                    "id": "882338668763840532"
+                },
+                "canalName": "Solicitar-",
+                "descricao": "Solicitar TAG Criador de Conteúdo e/ou VIP."
+            }
+            
+        ],
+        "embed": {
+            "image": "https://cdn.discordapp.com/attachments/799111095930716171/868921336750297128/1627237374077.png",
+            "isThumbnail": false,
+            "isActive": true,
+            "cor": "ORANGE",
+            "hostName": "Rede Tower",
+            "site": "https://redetower.com.br/links",
+            "wiki": "https://wiki.redetower.com.br/",
+            "horario": {
+                "title": "**Horário de atendimento:**",
+                "fim": "⏲️ `10:00 às 23:00 (UTC-3)`"
+            }
+        }
+    }
+}
